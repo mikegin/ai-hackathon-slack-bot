@@ -48,6 +48,7 @@
     "@slack/bolt": "^3.13.0",
     "@slack/events-api": "^3.0.1",
     "@slack/web-api": "^6.8.1",
+    "cohere-ai": "^6.2.0",
     "dotenv": "^16.0.3",
     "moleculer": "^0.14.27",
     "moleculer-web": "^0.10.5",

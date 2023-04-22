@@ -1,0 +1,1 @@
+export type ResponseResult = { isQuestion: boolean, result: string | null }
